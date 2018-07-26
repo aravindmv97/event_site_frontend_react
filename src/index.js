@@ -8,11 +8,11 @@ import App from './App.js';
 import './index.css';
 
 ReactDOM.render(
-	 <div className="mainContainer">
+	 
 		<Router>
 	  		<Route exact path="/" component={App} />			 
 		</Router>
-	</div>
+	
 	, 
 	document.getElementById('root'));
 registerServiceWorker();
