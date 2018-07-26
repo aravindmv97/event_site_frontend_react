@@ -1,0 +1,14 @@
+.album_label{
+	margin-top: 15px;
+	text-align: center;
+	padding: 15px;
+}
+
+.album_container{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.navbar_component{
+	align-content: center;
+}

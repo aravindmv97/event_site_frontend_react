@@ -1,5 +1,17 @@
 body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	/*background: linear-gradient(to left, #900C3F , #900C3F, #C70039);*/
+	background-color: #F1EA5A;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.mainContainer{
+	border-radius: 10px;
+	box-shadow: 0 24px 28px 0 rgba(0, 0, 0, 0.2), 0 16px 40px 0 rgba(0, 0, 0, 0.19);
+	background-color: white;
 }
